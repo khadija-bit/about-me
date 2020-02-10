@@ -1,0 +1,23 @@
+body{
+background-image: url("../image/art1.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+font-weight: normal!important;
+
+}
+h1{
+  font-size: 30px;
+  color: brown;
+}
+ h2,h3{
+   font-size: 25px;
+   color: purple;
+ }
+ p{
+   font-size: 25px;
+   color: black;
+ }
+ .khadija{
+
+ }
