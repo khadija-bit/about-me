@@ -1,36 +1,41 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <h1>KHADIJA'S PROJECT</h1>
-      <link href="css/styles.css" rel="stylesheet" type="text/css" media="all">
-      <img src="world.jpg" alt="sunset" height="400px"width="40%" length="50%" />
 
- <h2>LIST OF PROJECTS</h2>
-  <div class="khadija">
-    <ul>
-     <li> wildcats</li>
-     <li>box model</li>
-    </ul>
+# {khadija hassan}
+#### {PORTOFOLIO}, {2020}
+#### By **{khadija hassan}**
+## Description
+{I used html to create index.html.I save image from google chrome. }
+## Setup/Installation Requirements
+* used  html 
+* used google chrome
+* visual studio code
+* linux ubuntu software
+## Known Bugs
+{they are no bugs. }
+## Technologies Used
+{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+## Support and contact details
+{my email contact sumeyahassan34@gmailcom in case of any feedback.}
+### License
+*{MIT License
 
-    <p>Here is a link</p>
-     <a href="///file:https://github.com/khadija-bit/project.git">
+Copyright (c) [2020 } [Khadija hassan]
 
-   </div>
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
- <body>
-   <h3>ABOUT ME</h3>
-   <p>My name is khadija hassan, i finish highschool 2017,currently i have no job experience, i wanted to learn coding, html, java and know more about software development. </p>
-<p>highs</p>
- <h3>MY HOBBIES</h3>ij
- <div class="khadija">
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-   <ol>
-      <li>playing football and volleyball</li>
-        <li>travelling</li>
-         <li>art</li>
-        <li>gaming</li>
-        <li>cooking</li>
-    </ol>
-  </div>
-  </body>
-</html>
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE..}*
+Copyright (c) {2020} **{khadija hassan}**
+  
