@@ -1,22 +1,24 @@
 
-# {khadija hassan}
-#### {PORTOFOLIO}, {2020}
-#### By **{khadija hassan}**
+## PORTOFOLIO
+
 ## Description
-{I used html to create index.html.I save image from google chrome. }
+This is my first porfolio project 
+## Author
+khadija hassan.
+
 ## Setup/Installation Requirements
 * used  html 
 * used google chrome
 * visual studio code
 * linux ubuntu software
 ## Known Bugs
-{they are no bugs. }
+They are no bugs. 
 ## Technologies Used
 {Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
 ## Support and contact details
 {my email contact sumeyahassan34@gmailcom in case of any feedback.}
 ### License
-*{MIT License
+MIT License
 
 Copyright (c) [2020 } [Khadija hassan]
 
@@ -36,6 +38,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE..}*
-Copyright (c) {2020} **{khadija hassan}**
+SOFTWARE.
   
